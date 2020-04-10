@@ -1,5 +1,5 @@
 # xplocode
-Kodingan Admin Login Anti Hack
+Kodingan Login dan Register Anti Hack
 .
 patch bug bypass sql login,
 patch bug bypass admin login,
